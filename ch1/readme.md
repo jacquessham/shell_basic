@@ -34,11 +34,6 @@ Here are the common commands for directories:
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>ls</td>
 		<td>Listing Directories</td>
 	</tr>
