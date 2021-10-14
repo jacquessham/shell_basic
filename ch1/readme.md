@@ -119,5 +119,17 @@ Here are the common commands for file management:
 <br><br>
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson2">Lesson 2 Folder</a>.
 
+## Lesson 3: Pipes, Filter, Search, Sort, Zip
+Shell allow you to chain multiple commands into one command using <b>pipe (\|)</b>, the output of the commands are called <b>Filter</b>.
+<br>
+Use <b>grep</b> to search a file(s) that match a certain pattern. You may use <b>sort</b> to sort the output of the lines of a command result. If the output is too long, you may use <b>pg</b> to limit the output on the shell screen.
+
+A example of all those commands in one command is such:
+```
+ls  | grep "data" | sort | pg
+```
+
+There are a lot of options available to search and sort, you may find more detail and standalone examples in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson3">Lesson 3 Folder</a>.
+
 ## Reference
 Tutorialspoint: <a href="https://www.tutorialspoint.com/unix/index.htm">link</a>
