@@ -132,7 +132,14 @@ ls  | grep "data" | sort > fileslist.txt
 There are a lot of options available to search and sort, you may find more detail and standalone examples in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson3">Lesson 3 Folder</a>.
 
 ## Lesson 4: Preocessing
-Coming Soon...
+Every time you execute a command, you can run it in <i>Foreground Processes</i> or <i>Background Process</i>. This lesson we will go over how to list running processes, stop processes and beyond using the following command:
+
+<ul>
+	<li>&</li>
+	<li>ps</li>
+	<li>kill</li>
+	<li>top</li>
+</ul>
 
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson4">Lesson 4 Folder</a>.
 
