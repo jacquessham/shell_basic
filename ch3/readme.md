@@ -1,2 +1,6 @@
 # Chapter 3: Application Commands
+## Lesson 1: Github
+Coming Soon...
+
+## Lesson 2: Docker
 Coming Soon...
