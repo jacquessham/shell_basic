@@ -148,5 +148,10 @@ Coming Soon...
 
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson5">Lesson 5 Folder</a>.
 
+## Lesson 6: Network Troubleshooting
+You may use <b>ping</b> and <b>telnet</b> to test on a network. <b>talnet</b> depreciated after macOS High Sierra (10.3), you may use <b>nc</b> (netcat) instead.
+
+You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson6">Lesson 6 Folder</a>.
+
 ## Reference
 Tutorialspoint: <a href="https://www.tutorialspoint.com/unix/index.htm">link</a>
