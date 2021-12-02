@@ -144,7 +144,7 @@ Every time you execute a command, you can run it in <i>Foreground Processes</i> 
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson4">Lesson 4 Folder</a>.
 
 ## Lesson 5: Read/Edit a file
-Coming Soon...
+In this lesson, we will go over how to read or edit a file on command line. You use <b>vi (filename)</b> to open the file and enter to Operation Mode of the command line editor to edit the file. Type <b>i</b> to enter Insert Mode to edit and press <b>Esc</b> to return to Operation Mode. Once you are done, type <b>:q</b> to exit the file editor.
 
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson5">Lesson 5 Folder</a>.
 
