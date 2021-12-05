@@ -153,5 +153,10 @@ You may use <b>ping</b> and <b>telnet</b> to test on a network. <b>talnet</b> de
 
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson6">Lesson 6 Folder</a>.
 
+## Lesson 7: Difference
+<b>diff</b> is useful to tell the difference between 2 files. The syntax is <b>diff (filename1) (filename2)</b>.
+
+You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson7">Lesson 7 Folder</a>.
+
 ## Reference
 Tutorialspoint: <a href="https://www.tutorialspoint.com/unix/index.htm">link</a>
