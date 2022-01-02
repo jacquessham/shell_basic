@@ -18,7 +18,7 @@
 	</tr>
 	<tr>
 		<td>i</td>
-		<td>To make the command insensitive. The content with different cases in both files are treated the same</td>
+		<td>To make the command case insensitive. The content with different cases in both files are treated the same</td>
 	</tr>
 	<tr>
 		<td>version</td>
@@ -27,4 +27,12 @@
 </table>
 
 ## Examples
-Coming Soon...
+A simple syntax to tell difference between <i>file1.txt</i> and <i>file2.txt</i>
+```
+diff file1.txt file2.txt
+```
+<br>
+If you want the command to differate the files case insenitively, use
+```
+diff -i file1.txt file2.txt
+```
