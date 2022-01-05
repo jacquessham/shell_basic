@@ -106,7 +106,7 @@ Here are the common commands for file management:
 	</tr>
 	<tr>
 		<td>mv (Old File Name) (New File Name)</td>
-		<td>Rename a file</td>
+		<td>Rename/Move a file</td>
 		<td>mv trainingdata.csv trainingX.csv</td>
 	</tr>
 	<tr>

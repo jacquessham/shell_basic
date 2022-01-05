@@ -119,4 +119,16 @@ cp trainingdata.csv trainingdata_copy.csv
 cp trainingdata.csv Backup/trainingdata_copy.csv
 ```
 
+## Rename/Move a file
+<b>mv</b> allows you either rename or move to a file. The syntax is <i> mv (directory1) (directory2)</i>. If both directories in the parameters are the same except a different file name, it will rename a file, or it will move from an old directory to a new directory if the directories are different.
+<br>
+Renaming a file:
+```
+mv trainingdata.csv training.csv
+```
+<br>
+Moving a file:
+```
+mv trainingdata.csv Backup/trainingdata.csv
+```
 
