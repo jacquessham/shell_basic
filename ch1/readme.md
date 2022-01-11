@@ -164,5 +164,5 @@ You may use <b>curl</b> to download or upload data without user interaction.
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1/lesson8">Lesson 8 Folder</a>.
 
 ## Reference
-Tutorialspoint: <a href="https://www.tutorialspoint.com/unix/index.htm">link</a>
+Tutorialspoint: <a href="https://www.tutorialspoint.com/unix/index.htm">link</a><br>
 Curl Command in Linux with Examples : <a href="https://linuxize.com/post/curl-command-examples/">link</a>
