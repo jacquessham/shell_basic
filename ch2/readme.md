@@ -9,4 +9,14 @@ sh hello_world.sh
 ```
 
 ## Lesson 2: Variables
+Declaring a variable in command line is the same as most of the language, but beware not to leave space between variable name, equal signs and the value. You can convert a variable to read-only variable using <b>readonly</b> or delete a variable using <b>unset</b>. Note that you are not able to delete a read-only variable. Below is the example to declare variables, convert a variable to read-only, and delete a variable:
+
+```
+fname='Jacques'
+readonly fname
+lname='Sham'
+unset lname
+```
+
+## Lesson 3: 
 Coming Soon...
