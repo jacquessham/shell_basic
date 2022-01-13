@@ -15,7 +15,7 @@ echo $name
 ```
 <br>
 <b>\*\*Note: You must not leave space between variable and equal sign, and also not between equal sign and the value</b>
-<br>
+<br><br>
 You may use <b>readonly</b> to convert a variable to a read-only variable. Once you have convert a read-only variable, you are not able to convert back to normal state (At least in the best practice).
 ```
 name="Jacques"
