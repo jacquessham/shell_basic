@@ -1,10 +1,10 @@
 # Shell Basic
-Repository to store the scripts and syntaxes for learning shell. 
+Repository to store the scripts and syntaxes for learning shell. This repository will mainly focus on Bash and other macOS utility tools. 
 
 ## Chapter 1: Basic Commands
 The notes and scripts may be found in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch1">Chapter 1 folder</a>.
 
-## Chapter 2: Basic Scripting (Coming Soon...)
+## Chapter 2: Basic Scripting
 The folder includes the following topics:
 <ul>
 	<li>Printing</li>

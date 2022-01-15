@@ -22,5 +22,8 @@ unset lname
 <br><br>
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2/lesson2">Lesson 2 Folder</a>.
 
-## Lesson 3: 
+## Lesson 3: Array
+
+
+## Lesson 4: Loop
 Coming Soon...
