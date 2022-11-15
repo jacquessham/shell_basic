@@ -2,12 +2,12 @@
 Like many programing language, shell offers array to store mulitple values in one object.
 
 ## Syntax
-You will use <b>array_name=(value1 value2 value3)</b> to declare an array, <b>array_name[i]</b> to access an array element, and <b>array_name[\*]</b> or <b>array_name[@]</b> to access all elements within the array. Arrays in shell are 0-based.
+You will use <b>array_name=(value1 value2 value3)</b> to declare an array, <b>array_name[i]</b> to access an array element, and <b>array_name[\*]</b> or <b>array_name[@]</b> to access all elements within the array. Arrays in Bash are 0-based, but it is 1-based for zsh.
 
 ```
 class1A=("Jacques" "Rodney" "Henry")
-echo "${class1A[0]}"
-echo "${class1A[@]}"
+echo "${class1A[1]}"
+echo "${class1A[*]}"
 ```
 <br>
 You can use the operator <b>+= </b>to append an element, also you may put the whole array as index to add an element at the end of the array. Using bracket to combine an array and an element is also possible to append an element in an array. Alternatively, You can add or edit by element index. If you print the list which contains empty elements, it will skip that element what you print on shell.

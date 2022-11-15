@@ -23,7 +23,12 @@ unset lname
 You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2/lesson2">Lesson 2 Folder</a>.
 
 ## Lesson 3: Array
+Like many programing language, shell offers array to store mulitple values in one object. zsh is 1-based array. You can use the following syntax to declare an array and access it in zsh command line(Mac).
 
+```
+array_name=(value1 value2 value3)
+array_name[i]
+```
 
 ## Lesson 4: Loop
 Coming Soon...
