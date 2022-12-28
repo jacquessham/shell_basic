@@ -10,9 +10,8 @@ The folder includes the following topics:
 	<li>Printing</li>
 	<li>Variables</li>
 	<li>Arrays</li>
-	<li>Loop</li>
-	<li></li>
-	<li></li>
+	<li>Loops</li>
+	<li>Functions</li>
 </ul>
 <br>
 The notes and scripts may be found in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2">Chapter 2 folder</a>.
@@ -25,3 +24,6 @@ The folder includes the following applications:
 </ul>
 <br>
 The notes and scripts may be found in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch3">Chapter 3 folder</a>.
+
+## Reference
+<a href="https://www.tutorialspoint.com/unix/index.htm">Tutorials Point</a>

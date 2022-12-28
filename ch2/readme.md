@@ -29,6 +29,34 @@ Like many programing language, shell offers array to store mulitple values in on
 array_name=(value1 value2 value3)
 array_name[i]
 ```
+<br><br>
+You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2/lesson3">Lesson 3 Folder</a>.
 
 ## Lesson 4: Loop
+Like many programing language, shell offers loops to iterate elements within an Array. The available loops in Bash are:
+<ul>
+	<li>While Loop</li>
+	<li>For Loop</li>
+	<li>Util Loop</li>
+	<li>Select Loop</li>
+</ul>
+<br>
+An example of while loop:
+<br>
+
+```
+a = 0
+while [ "$a" -lt 10 ]
+do
+	echo "$a"
+	a=`expr $a + 1`
+done
+```
+<br><br>
+You may find more detail in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2/lesson4">Lesson 4 Folder</a>.
+
+## Lesson 5: Basic Operators 
+Coming Soon...
+
+## Lesson 6: Functions
 Coming Soon...
