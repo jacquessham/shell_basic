@@ -12,10 +12,6 @@ The lesson material originates from Docker and presented by Patrick Loeber.
 	<li>Build the Container</li>
 	<li>Run the Container</li>
 </ul>
-
-<b>Caution: The URL is forbiddened for the script to access, will update the script soon...</b>
-
-<br><br>
 To access the scripts for the simple example of dockerized Python script, you may find it in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch3/lesson2/dockerization/ex1">Example 1</a> folder. If you would like to access the dockerized Python script for hosting virtual machine, you may find it in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch3/lesson2/dockerization/ex2">Example 2</a> folder. Note: The example are coming from Docker documentation presented by Patrick Loeber.
 
 ## Reference

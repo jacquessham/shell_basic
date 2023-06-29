@@ -1,5 +1,5 @@
 # Example 1 - Dockerize a Python Script
-In this folder, you may find the script on how to dockerize a Python script. The instruction may be found in the [Lesson 3.2.2](/..) folder
+In this folder, you may find the script on how to dockerize a Python script. The instruction may be found in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch3/lesson2/dockerization">Lesson 3.2.2</a> folder
 <br><br>
 The lesson material originates from Docker and presented by Patrick Loeber.
 
@@ -32,7 +32,7 @@ Then run the container:
 docker run -d python-imdb
 ```
 
-<b>Caution: The URL is forbiddened for the script to access, will update the script soon...</b>
+<b>Caution: The URL is forbiddened for the script to access, it will not able to return the proper outcome. But it is still able to showcase how to Dockerize a Python script.</b> You should able to receive a message stating the request is not successful, instead of an error message.
 
 ## Files
 You may find the following files in this folder:

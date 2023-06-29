@@ -6,14 +6,8 @@ from bs4 import BeautifulSoup
 
 URL = 'http://www.imdb.com/chart/top'
 
-def main():
-    response = requests.get(URL)
-
-    print(response.text)
-
+def show_movie(response):
     soup = BeautifulSoup(response.text, 'html.parser')
-
-    print(soup.prettify())
 
     movietags = soup.select('td.titleColumn')
     inner_movietags = soup.select('td.titleColumn a')
@@ -36,14 +30,19 @@ def main():
         idx = random.randrange(0, n_movies)
         
         print(f'{titles[idx]} {years[idx]}, Rating: {ratings[idx]:.1f}, Starring: {actors_list[idx]}')
-
-        # comment the next line out to test user input with docker run -t -i
-        # break
     
         user_input = input('Do you want another movie (y/[n])? ')
         if user_input != 'y':
             break
-    
+
+
+def main():
+    response = requests.get(URL)
+
+    if response.status_code == 200:
+        show_movie(response)
+    else:
+        print(f"We are not able to get to the site, please try another URL!")
 
 if __name__ == '__main__':
     main()
