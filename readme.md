@@ -16,10 +16,10 @@ The folder includes the following topics:
 <br>
 The notes and scripts may be found in the <a href="https://github.com/jacquessham/shell_basic/tree/main/ch2">Chapter 2 folder</a>.
 
-## Chapter 3: Application Commands (Coming Soon...)
+## Chapter 3: Application Commands
 The folder includes the following applications:
 <ul>
-	<li>Github</li>
+	<li>Github (Coming Soon...)</li>
 	<li>Docker</li>
 </ul>
 <br>
